@@ -184,10 +184,9 @@ padding-left: 10px;
 
 .sample {
 position: relative;
-	 left: 10%;
+	margin: 0 auto;
 	padding-top: 20px;
-margin-left: 100px;
-	margin-right: 100px;
+	max-width: 500px;
 }
 
 .sample-body {
