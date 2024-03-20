@@ -198,6 +198,13 @@ position: relative;
 }
 
 
+.pd-body {
+	color: #F6F0F0;
+	margin-right: 100px;
+	margin-left: 100px;
+	padding-bottom: 20px;
+}
+
 .thumbnail {
   padding-top: 20px;
   position: relative;
