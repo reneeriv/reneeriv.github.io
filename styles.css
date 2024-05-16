@@ -363,6 +363,7 @@ footer {
   width: 100%;
   height: auto;
   padding-bottom: 30px;
+	text-align: center;
 }
 
 #next p {
