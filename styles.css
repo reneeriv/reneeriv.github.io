@@ -93,6 +93,7 @@ header {
   }
 }
 header h1 {
+	padding-top: 10px;
   margin-bottom: -20px;
   text-align: center;
   font-family: "Montserrat", sans-serif;
