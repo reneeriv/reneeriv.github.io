@@ -93,11 +93,14 @@ header {
   }
 }
 header h1 {
-	padding-top: 10px;
   margin-bottom: -20px;
   text-align: center;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
+}
+
+header p {
+	padding-top: 10px;
 }
 .container-fluid {
   text-align: center;
